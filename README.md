@@ -10,9 +10,9 @@ For a detailed problem description, please visit the [LeetCode problem page](htt
 
 ## Instructions
 
-1. **Implement the Function**: Write your code in the `main.py` file. Define a function `int_to_roman(num: int) -> str` that takes an integer and returns its Roman numeral as a string. Do not use classes; a simple function definition is sufficient.
+1. **Implement the Function**: Write your code in the `main.py` file. Define a function `int_to_roman(num)` that takes an integer and returns its Roman numeral as a string. Do not use classes; a simple function definition is sufficient.
 
-2. **Test Your Code**: Use the provided `main_test.py` file to test your implementation. Ensure all test cases pass before submission.
+2. **Test Your Code**: Use the provided `main_test.py` file to test your implementation. 
 
-3. **Submission**: After verifying your solution with the tests, commit and push your code to the repository.
+3. **Submission**: Commit and push your code to the repository as frequently as possible.
 
